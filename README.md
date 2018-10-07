@@ -10,5 +10,6 @@ RL-Belarabi is a series of [youtube](https://www.youtube.com/watch?v=PYLU0HtaZyU
  - L02: Markov Decision Processes (MDPs) I
  - L03: Markov Decision Processes (MDPs) II
  - L04: Q-Learning
+ - L05: Deep Q-Networks
 
 Lessons will be added once recorded - سيتم اضافة الدروس عند تسجيلها
