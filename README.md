@@ -11,5 +11,6 @@ RL-Belarabi is a series of [youtube](https://www.youtube.com/watch?v=PYLU0HtaZyU
  - L03: Markov Decision Processes (MDPs) II
  - L04: Q-Learning
  - L05: Deep Q-Networks
+ - L06: DQN implementation for Pong
 
 Lessons will be added once recorded - سيتم اضافة الدروس عند تسجيلها
